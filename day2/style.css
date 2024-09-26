@@ -1,0 +1,13 @@
+body{
+    background-color: beige;
+}
+tr{
+    background-color: rgb(169, 167, 183);
+    color:rgb(25, 30, 30)
+}
+table{
+    border-radius: 12px;
+    border-color:rgb(13, 20, 60);
+    border-style:groove;
+    border-width:5px;
+}
