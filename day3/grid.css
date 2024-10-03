@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.fcontainer
+{
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+.fitem{
+    background-color:rgb(249, 216, 185);
+    padding:10px;
+    border: 3px solid rgb(94, 45, 45);
+}
+.item1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.item2{
+    grid-row-start:2;
+    grid-row-end:4;
+}
