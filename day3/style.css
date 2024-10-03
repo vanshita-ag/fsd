@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding : 0px;
+    box-sizing:border-box;
+}
+/* #myid1{
+    background-color: aliceblue;
+    font-size: 20px;
+}
+#myid2{
+    background-color: rgb(17, 58, 95);
+    font-size: 20px;
+} */
+/* div ~ p{
+   background-color: brown;
+   font-size:30px;
+} */
+div + p{
+    background-color: brown;
+    font-size:30px;
+ }
