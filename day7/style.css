@@ -1,0 +1,22 @@
+#top{
+    background-color: thistle;
+    color:rgb(230, 210, 30);
+    border : 5px solid rgb(66, 43, 6);
+}
+h1{
+    background-color: rgb(224, 204, 243);
+    color:rgb(33, 43, 47);
+    border : 3px groove green;
+}
+button{
+    border-radius: 10px;
+    background-color: rgb(160, 233, 233);
+    font-size: 20px;
+    width:200px;
+    height:50px;
+}
+a{
+    text-decoration: none;
+    color:rgb(3, 7, 39);
+    font-size: 30px;
+}
